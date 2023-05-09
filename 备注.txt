@@ -1,0 +1,3 @@
+接口  http://ajax.frontend.itheima.net
+
+备用  http://api-breakingnews-web.itheima.net/

@@ -66,3 +66,7 @@ $(function () {
         })
     })
 })
+//上传到云端
+// git push -u origin login 
+
+//git branch
